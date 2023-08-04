@@ -1,2 +1,4 @@
 requests
 streamlit==1.21.0
+matplotlib
+pyowm
